@@ -1,0 +1,6 @@
+framework module Pods_CleanArchitectureRDBSampleTests {
+  umbrella header "Pods-CleanArchitectureRDBSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
