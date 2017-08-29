@@ -1,0 +1,16 @@
+{
+    "lists": {
+        "list_01": {
+            "image": "image_path",
+            "title": "title:01"
+        },
+        "list_02": {
+            "image": "image_path",
+            "title": "title:02"
+        },
+        "list_03": {
+            "image": "image_path",
+            "title": "title:03"
+        }
+    }
+}
